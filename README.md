@@ -52,7 +52,7 @@ This is done in the BigCommerce Products section of their website. It can be don
   
   "Show user name and info"
   
-  Using the Handlebars Customer Object, I used an if statement to check if there was a customer signed in and then displayed it. I only including the name so the header didn't look too crowded.
+  Using the Handlebars Customer Object, I used an if statement to check if there was a customer signed in and then displayed it. I only included the name so the header didn't look too crowded.
   
   
   
