@@ -1,0 +1,11 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://lukeshortthemetest.mybigcommerce.com",
+  "port": "3000",
+  "apiHost": "https://api.bigcommerce.com"
+}
